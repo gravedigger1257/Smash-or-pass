@@ -1,4 +1,3 @@
-# Smash-or-pass
 <!DOCTYPE html>
 <html lang="en">
 <head>
